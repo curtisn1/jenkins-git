@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh 'echo "Hello World"'
                 sh '''
-                    echo "Tortoise shell steps works too"
+                    echo "Turtle head steps works too"
                     ls -lah
                 '''
             }
