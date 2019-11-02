@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh 'echo "Hello World"'
                 sh '''
-                    echo "Turtle head steps works too"
+                    echo "you look like bono"
                     ls -lah
                 '''
             }
